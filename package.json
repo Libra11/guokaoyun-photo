@@ -1,0 +1,10 @@
+{
+  "name": "photo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^11.2.0",
+    "xlsx": "^0.18.5"
+  }
+}
